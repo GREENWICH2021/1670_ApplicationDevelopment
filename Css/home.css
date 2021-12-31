@@ -1,0 +1,9 @@
+﻿body {
+    background-image: url('../Image/TruongG.jpg');
+}
+
+.container body-content {
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 50%;
+}
